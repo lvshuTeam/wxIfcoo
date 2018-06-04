@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#131314",
+    "navigationBarTitleText": "驴鼠",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#bebebe",
+    "selectedColor": "#4b4b4b",
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  }
+}

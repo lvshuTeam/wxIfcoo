@@ -1,0 +1,7 @@
+/**app.wxss**/
+
+@import "components/toast/toast.wxss";
+
+.flex {
+    display: flex;
+}
